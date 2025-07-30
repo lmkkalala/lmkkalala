@@ -36,6 +36,8 @@ I'm a full-stack developer with five years of experience in the field, I build s
  - [Instagram](https://www.instagram.com/lmkkalala/)
  - [twitter_x](https://www.x.com/lmkkalala/)
 
+- [tiktok](https://www.tiktok.com/@lmkkalala/)
+
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
