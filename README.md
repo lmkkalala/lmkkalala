@@ -2,11 +2,11 @@
 
 <hr>
 
-#### 🤔 What you should know ?
+#### 🤔 What you should know
 
-I'm a full-stack developer with five years of experience in the field, I build software solutions that can be used as a handheld for the daily challenges that we face. Motivated by daily learning and looking for new opportunities to increase my knowledge and challenge the one I have.
+I'm a full-stack developer with five years of experience in the field. I build software solutions that can be used as a tool for the daily challenges that we face. Motivated by daily learning and looking for new opportunities to increase my knowledge and challenge what I have.
   
-#### 💡 The Technologies I use ?
+#### 💡 The Technologies I use
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=181717&logo=PHP&logoColor=FFFFFF&label=) 
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=181717&logo=CodeIgniter&logoColor=FFFFFF&label=)
@@ -21,7 +21,7 @@ I'm a full-stack developer with five years of experience in the field, I build s
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=181717&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-#### 💻 Daily Used Tools ?
+#### 💻 Daily Used Tools
 
   ![VSCODE](https://img.shields.io/static/v1?style=for-the-badge&message=vscode&color=222222&logo=&logoColor=FFFFFF&label=)
   ![WAMP,XAMPP,MAMP](https://img.shields.io/static/v1?style=for-the-badge&message=server&color=222222&logo=&logoColor=FFFFFF&label=)
@@ -29,14 +29,12 @@ I'm a full-stack developer with five years of experience in the field, I build s
   ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=222222&logo=&logoColor=FFFFFF&label=)
   ![Kali](https://img.shields.io/static/v1?style=for-the-badge&message=kali&color=222222&logo=&logoColor=FFFFFF&label=)
 
-#### ☎️ Connect With Me Through !
- - [Portfolio](https://lmkkalala.github.io/site)
- - [Linkedin](https://www.linkedin.com/in/lmkkalala)
- - [Facebook](https://web.facebook.com/lmkkalala/)
- - [Instagram](https://www.instagram.com/lmkkalala/)
- - [twitter_x](https://www.x.com/lmkkalala/)
-
-- [tiktok](https://www.tiktok.com/@lmkkalala/)
+#### ☎️ Connect With Me Through!
+[Portfolio](https://lmkkalala.github.io/site)
+[Linkedin](https://www.linkedin.com/in/lmkkalala)
+[Instagram](https://www.instagram.com/lmkkalala/)
+[twitter_x](https://www.x.com/lmkkalala/)
+[tiktok](https://www.tiktok.com/@lmkkalala/)
 
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
